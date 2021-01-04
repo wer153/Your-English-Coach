@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Your-English-Coach/static/css/main.8ef97411.chunk.css",
+    "main.js": "/Your-English-Coach/static/js/main.d66ddae0.chunk.js",
+    "main.js.map": "/Your-English-Coach/static/js/main.d66ddae0.chunk.js.map",
+    "runtime-main.js": "/Your-English-Coach/static/js/runtime-main.0ca20ec8.js",
+    "runtime-main.js.map": "/Your-English-Coach/static/js/runtime-main.0ca20ec8.js.map",
+    "static/js/2.33c6ac22.chunk.js": "/Your-English-Coach/static/js/2.33c6ac22.chunk.js",
+    "static/js/2.33c6ac22.chunk.js.map": "/Your-English-Coach/static/js/2.33c6ac22.chunk.js.map",
+    "index.html": "/Your-English-Coach/index.html",
+    "static/css/main.8ef97411.chunk.css.map": "/Your-English-Coach/static/css/main.8ef97411.chunk.css.map",
+    "static/js/2.33c6ac22.chunk.js.LICENSE.txt": "/Your-English-Coach/static/js/2.33c6ac22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca20ec8.js",
+    "static/js/2.33c6ac22.chunk.js",
+    "static/css/main.8ef97411.chunk.css",
+    "static/js/main.d66ddae0.chunk.js"
+  ]
+}
